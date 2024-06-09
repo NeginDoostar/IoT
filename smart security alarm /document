@@ -1,9 +1,0 @@
-please see demo
-
-hardwares: 
-esp32-cam controller, sim800L, pir sensor, tp4056
-
-softwares:
-arduino code: detect motion, capture image, send sms to user, post image to a php server, send image to WhatsApp, AP 
-php code: image storage
-android code: help of software, make hardware setting
