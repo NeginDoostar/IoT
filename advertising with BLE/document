@@ -1,0 +1,10 @@
+please see demo
+
+hardwares: esp32 micro controler, tp4056
+
+sotwares: 
+android code: setting app, send advertising text 
+arduino code: AP, BLE server 
+
+aditional tools:
+nRF Connect app
