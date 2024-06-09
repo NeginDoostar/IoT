@@ -1,0 +1,8 @@
+please see demo 
+  
+hardwares: 
+ESP32 micro controler, DHT sensor, photocell, LED
+
+softwares: 
+arduino code: use esp32 as AP
+android code: socket programming
